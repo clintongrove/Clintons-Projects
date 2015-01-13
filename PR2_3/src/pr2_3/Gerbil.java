@@ -10,6 +10,7 @@ package pr2_3;
  *
  * @author hgrove17
  */
+//Reuse from PR2_1 -2
 public class Gerbil {
     public int gerbilNumber;
     public Gerbil(){};
@@ -17,6 +18,8 @@ public class Gerbil {
             gerbilNumber = i;
             
         }
+        
+        //PT -- javadocs here -2
    void hop(){
        System.out.println("Gerbil No. " +gerbilNumber +" is hopping.\n");
    }

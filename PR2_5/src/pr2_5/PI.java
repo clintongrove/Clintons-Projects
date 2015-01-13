@@ -10,6 +10,8 @@ package pr2_5;
  *
  * @author hgrove17
  */
+
+//PT -- again, reuse this class.
 public class PI {
     static double generatepi(double c){
     double j=3;

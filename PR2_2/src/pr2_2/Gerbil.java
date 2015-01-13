@@ -10,6 +10,7 @@ package pr2_2;
  *
  * @author hgrove17
  */
+//PT -- reuse the class from PR2_1, don't copy/paste it here. -2
 public class Gerbil {
     private int gerbilNumber;
     public Gerbil(int i){ gerbilNumber = i;}

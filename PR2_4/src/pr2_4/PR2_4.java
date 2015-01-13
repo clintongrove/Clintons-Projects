@@ -18,6 +18,7 @@ public class PR2_4 {
     public static void main(String[] args) {
         // TODO code application logic here
         PI pi = new PI();
+        //PT -- Check that there's an argument on the command line. Don't assume there is. -2
         double value = Double.parseDouble(args[0]);
          System.out.println("Pie is "+pi.generatepi(value));
       
