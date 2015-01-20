@@ -1,0 +1,21 @@
+5
+pablos
+2.0
+east 4th st
+bad tacos
+purple
+3.0
+ne 45th st
+good wine
+dicks
+4.0
+queen anne hill
+awesome shakes
+jTextField1
+4.0
+jTextField2
+asdf
+ddd
+3.0
+ggg
+lalalal
