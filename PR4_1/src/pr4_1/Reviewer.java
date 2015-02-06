@@ -22,6 +22,7 @@ import java.util.List;
  * @author Clinton
  */
 public class Reviewer {
+    //PT -- make these private, too. -5
     public List<Restaurant> list = new <Restaurant> ArrayList();
     public String names="";
     int data;
