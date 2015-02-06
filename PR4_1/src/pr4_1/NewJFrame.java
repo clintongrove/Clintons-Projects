@@ -174,7 +174,7 @@ Reviewer r = new Reviewer();
        String restaurant = jTextField1.getText();
        String address = jTextField2.getText();
        String notes = jTextArea1.getText();
-       double rating = Double.parseDouble(jTextField3.getText());
+       double rating = Double.parseDouble(jTextField3.getText());//PT -- need to check that the text is a number first. -5
        r.addrestaurant(address,rating,notes,restaurant);
        r.save();
        r.load();
