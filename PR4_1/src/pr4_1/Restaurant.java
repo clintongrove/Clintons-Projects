@@ -10,7 +10,7 @@ package pr4_1;
  * @author Clinton
  */
 public class Restaurant {
-    public String name;
+    public String name;//PT -- don't make everything public. Take more care here. -5
     public String address;
     public double rating;
     public String notes;
